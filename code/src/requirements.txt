@@ -1,0 +1,17 @@
+argparse
+csv
+json
+logging
+nltk
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+datetime
+re
+spacy
+torch
+transformers
+tqdm
+scipy
+numpy
